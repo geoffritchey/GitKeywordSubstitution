@@ -4,5 +4,5 @@ Use git commands to replace variables from the standard input stream to the stan
 
 eg
 
-$Repo$ -> $Repo: https://github.com/geoffitchey/GitKeywordSubstitution.git$
+  $Repo$ -> $Repo: https://github.com/geoffitchey/GitKeywordSubstitution.git$
 
